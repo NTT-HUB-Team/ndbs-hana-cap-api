@@ -1,0 +1,14 @@
+{
+  "name": "ndbs-hana-cap-api",
+  "version": "1.0.1",
+  "description": "NTT Data Business Solutions API Common Models",
+  "repository": "<Add your repository here>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@sap/cds": "^6"
+  },
+  "files": [
+    "db",
+    "index.cds"
+  ]
+}
